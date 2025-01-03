@@ -1,0 +1,312 @@
+﻿Employee_Name,EmpID,Sex,MaritalDesc,CitizenDesc,State,Zip,HispanicLatino,RaceDesc,DOB,DateofHire,DateofTermination,TermReason,EmploymentStatus,RecruitmentSource,LastPerformanceReview_Date
+"Adinolfi, Wilson  K",10026,M ,Single,US Citizen,MA,1960,No,White,07/10/1983,07/05/2011,,N/A-StillEmployed,Active,LinkedIn,1/17/2019
+"Ait Sidi, Karthikeyan   ",10084,M ,Married,US Citizen,MA,2148,No,White,05/05/1975,3/30/2015,6/16/2016,career change,Voluntarily Terminated,Indeed,2/24/2016
+"Akinkuolie, Sarah",10196,F,Married,US Citizen,MA,1810,No,White,09/19/88,07/05/2011,9/24/2012,hours,Voluntarily Terminated,LinkedIn,5/15/2012
+"Alagbe,Trina",10088,F,Married,US Citizen,MA,1886,No,White,09/27/88,01/07/2008,,N/A-StillEmployed,Active,Indeed,01/03/2019
+"Anderson, Carol ",10069,F,Divorced,US Citizen,MA,2169,No,White,09/08/1989,07/11/2011,09/06/2016,return to school,Voluntarily Terminated,Google Search,02/01/2016
+"Anderson, Linda  ",10002,F,Single,US Citizen,MA,1844,No,White,05/22/77,01/09/2012,,N/A-StillEmployed,Active,LinkedIn,01/07/2019
+"Andreola, Colby",10194,F,Single,US Citizen,MA,2110,No,White,05/24/79,11/10/2014,,N/A-StillEmployed,Active,LinkedIn,01/02/2019
+"Athwal, Sam",10062,M ,Widowed,US Citizen,MA,2199,No,White,02/18/83,9/30/2013,,N/A-StillEmployed,Active,Employee Referral,2/25/2019
+"Bachiochi, Linda",10114,F,Single,US Citizen,MA,1902,No,Black or African American,02/11/1970,07/06/2009,,N/A-StillEmployed,Active,Diversity Job Fair,1/25/2019
+"Bacong, Alejandro ",10250,M ,Divorced,US Citizen,MA,1886,No,White,01/07/1988,01/05/2015,,N/A-StillEmployed,Active,Indeed,2/18/2019
+"Baczenski, Rachael  ",10252,F,Married,US Citizen,MA,1902,Yes,Black or African American,01/12/1974,01/10/2011,01/12/2017,Another position,Voluntarily Terminated,Diversity Job Fair,1/30/2016
+"Barbara, Thomas",10242,M ,Married,US Citizen,MA,2062,Yes,Black or African American,02/21/74,04/02/2012,9/19/2016,unhappy,Voluntarily Terminated,Diversity Job Fair,05/06/2016
+"Barbossa, Hector",10012,M ,Divorced,US Citizen,TX,78230,No,Black or African American,07/04/1988,11/10/2014,,N/A-StillEmployed,Active,Diversity Job Fair,2/25/2019
+"Barone, Francesco  A",10265,M ,Single,US Citizen,MA,1810,No,Two or more races,07/20/83,2/20/2012,,N/A-StillEmployed,Active,Google Search,2/14/2019
+"Barton, Nader",10066,M ,Divorced,US Citizen,MA,2747,No,White,07/15/77,9/24/2012,04/06/2017,Another position,Voluntarily Terminated,On-line Web application,03/02/2017
+"Bates, Norman",10061,M ,Single,US Citizen,MA,2050,No,White,10/18/81,2/21/2011,08/04/2017,attendance,Terminated for Cause,Google Search,04/05/2017
+"Beak, Kimberly  ",10023,F,Married,US Citizen,MA,2145,No,White,04/17/66,7/21/2016,,N/A-StillEmployed,Active,Employee Referral,1/14/2019
+"Beatrice, Courtney ",10055,F,Single,Eligible NonCitizen,MA,1915,No,White,10/27/70,04/04/2011,,N/A-StillEmployed,Active,Google Search,1/14/2019
+"Becker, Renee",10245,F,Single,US Citizen,MA,2026,Yes,White,04/04/1986,07/07/2014,09/12/2015,performance,Terminated for Cause,Google Search,1/15/2015
+"Becker, Scott",10277,M ,Single,US Citizen,MA,2452,No,Asian,04/06/1979,07/08/2013,,N/A-StillEmployed,Active,LinkedIn,01/11/2019
+"Bernstein, Sean",10046,M ,Single,US Citizen,MA,2072,Yes,White,12/22/70,04/02/2012,,N/A-StillEmployed,Active,Google Search,1/14/2019
+"Biden, Lowan  M",10226,F,Divorced,US Citizen,MA,2027,No,Asian,12/27/58,8/19/2013,,N/A-StillEmployed,Active,Indeed,01/10/2019
+"Billis, Helen",10003,F,Married,US Citizen,MA,2031,No,White,09/01/1989,07/07/2014,,N/A-StillEmployed,Active,Indeed,2/27/2019
+"Blount, Dianna",10294,F,Single,US Citizen,MA,2171,No,White,09/21/90,04/04/2011,,N/A-StillEmployed,Active,CareerBuilder,2/27/2019
+"Bondwell, Betsy",10267,F,Single,US Citizen,MA,2210,No,White,01/16/67,01/10/2011,04/04/2014,career change,Voluntarily Terminated,Google Search,03/04/2014
+"Booth, Frank",10199,M ,Single,US Citizen,CT,6033,No,Black or African American,07/30/64,2/17/2014,2/19/2016,Learned that he is a gangster,Terminated for Cause,LinkedIn,01/10/2016
+"Boutwell, Bonalyn",10081,F,Married,US Citizen,MA,2468,No,Black or African American,04/04/1987,2/16/2015,,N/A-StillEmployed,Active,Diversity Job Fair,2/18/2019
+"Bozzi, Charles",10175,M ,Single,US Citizen,MA,1901,No,Asian,03/10/1970,9/30/2013,08/07/2014,retiring,Voluntarily Terminated,Indeed,2/20/2014
+"Brill, Donna",10177,F,Married,US Citizen,MA,1701,No,White,08/24/90,04/02/2012,6/15/2013,Another position,Voluntarily Terminated,Google Search,03/04/2013
+"Brown, Mia",10238,F,Married,US Citizen,MA,1450,No,Black or African American,11/24/87,10/27/2008,,N/A-StillEmployed,Active,Diversity Job Fair,1/15/2019
+"Buccheri, Joseph  ",10184,M ,Single,US Citizen,MA,1013,No,White,07/28/83,9/29/2014,,N/A-StillEmployed,Active,Google Search,02/01/2019
+"Bugali, Josephine ",10203,F,Separated,US Citizen,MA,2043,No,Black or African American,10/30/69,11/11/2013,,N/A-StillEmployed,Active,Diversity Job Fair,1/21/2019
+"Bunbury, Jessica",10188,F,Married,Eligible NonCitizen,VA,21851,No,Black or African American,06/01/1964,8/15/2011,08/02/2014,Another position,Voluntarily Terminated,Google Search,02/10/2013
+"Burke, Joelle",10107,F,Single,US Citizen,MA,2148,No,Black or African American,03/02/1980,03/05/2012,,N/A-StillEmployed,Active,Employee Referral,2/21/2019
+"Burkett, Benjamin ",10181,M ,Married,US Citizen,MA,1890,No,White,08/19/77,04/04/2011,,N/A-StillEmployed,Active,Indeed,1/14/2019
+"Cady, Max ",10150,M ,Single,US Citizen,MA,2184,No,White,11/22/66,8/15/2011,,N/A-StillEmployed,Active,Google Search,1/21/2019
+"Candie, Calvin",10001,M ,Single,US Citizen,MA,2169,No,White,08/09/1983,1/28/2016,,N/A-StillEmployed,Active,Indeed,2/22/2019
+"Carabbio, Judith",10085,F,Single,US Citizen,MA,2132,No,White,04/05/1987,11/11/2013,,N/A-StillEmployed,Active,Indeed,1/30/2019
+"Carey, Michael  ",10115,M ,Single,US Citizen,MA,1701,No,Black or African American,02/02/1983,3/31/2014,,N/A-StillEmployed,Active,LinkedIn,02/01/2019
+"Carr, Claudia  N",10082,F,Single,US Citizen,MA,1886,No,Black or African American,06/06/1986,6/30/2016,,N/A-StillEmployed,Active,LinkedIn,2/18/2019
+"Carter, Michelle ",10040,F,Single,US Citizen,VT,5664,No,White,05/15/63,8/18/2014,,N/A-StillEmployed,Active,Indeed,1/21/2019
+"Chace, Beatrice ",10067,F,Single,US Citizen,MA,2763,No,White,01/02/1951,9/29/2014,,N/A-StillEmployed,Active,Google Search,02/12/2019
+"Champaigne, Brian",10108,M ,Married,US Citizen,MA,2045,No,White,02/09/1972,09/06/2016,,N/A-StillEmployed,Active,Indeed,1/15/2019
+"Chan, Lin",10210,F,Single,US Citizen,MA,2170,No,White,02/12/1979,05/12/2014,,N/A-StillEmployed,Active,Indeed,2/19/2019
+"Chang, Donovan  E",10154,M ,Single,US Citizen,MA,1845,No,White,08/24/83,07/08/2013,,N/A-StillEmployed,Active,LinkedIn,1/14/2019
+"Chigurh, Anton",10200,M ,Single,Eligible NonCitizen,TX,78207,No,Black or African American,06/11/1970,5/14/2012,,N/A-StillEmployed,Active,Employee Referral,1/19/2019
+"Chivukula, Enola",10240,F,Single,US Citizen,MA,1775,No,White,08/27/83,6/27/2011,11/15/2015,relocation out of area,Voluntarily Terminated,Indeed,03/10/2015
+"Cierpiszewski, Caroline  ",10168,F,Single,Non-Citizen,MA,2044,No,Black or African American,05/31/88,10/03/2011,,N/A-StillEmployed,Active,Indeed,1/30/2019
+"Clayton, Rick",10220,M ,Single,US Citizen,MA,2170,No,White,09/05/1985,09/05/2012,,N/A-StillEmployed,Active,Indeed,2/27/2019
+"Cloninger, Jennifer",10275,F,Married,US Citizen,MA,1752,No,White,08/31/81,5/16/2011,01/07/2013,unhappy,Voluntarily Terminated,Google Search,05/03/2012
+"Close, Phil",10269,M ,Married,US Citizen,MA,2169,No,White,11/25/78,8/30/2010,9/26/2011,career change,Voluntarily Terminated,Indeed,05/04/2011
+"Clukey, Elijian",10029,M ,Married,US Citizen,MA,2134,No,White,08/26/80,07/06/2016,,N/A-StillEmployed,Active,Employee Referral,2/28/2019
+"Cockel, James",10261,M ,Single,US Citizen,MA,2452,No,White,09/08/1977,07/08/2013,,N/A-StillEmployed,Active,Employee Referral,1/14/2019
+"Cole, Spencer",10292,M ,Single,US Citizen,MA,1880,No,Black or African American,08/12/1979,07/11/2011,9/23/2016,performance,Terminated for Cause,LinkedIn,05/01/2016
+"Corleone, Michael",10282,M ,Divorced,US Citizen,MA,1803,No,White,12/17/75,7/20/2010,,N/A-StillEmployed,Active,CareerBuilder,1/14/2019
+"Corleone, Vito",10019,M ,Single,US Citizen,MA,2030,No,Black or African American,03/19/83,01/05/2009,,N/A-StillEmployed,Active,Indeed,02/04/2019
+"Cornett, Lisa ",10094,F,Married,US Citizen,MA,2189,Yes,White,03/31/77,01/05/2015,,N/A-StillEmployed,Active,Indeed,2/14/2019
+"Costello, Frank",10193,M ,Married,US Citizen,MA,1810,No,White,08/26/86,3/30/2015,,N/A-StillEmployed,Active,Indeed,1/22/2019
+"Crimmings,   Jean",10132,F,Single,US Citizen,MA,1821,No,White,04/10/1987,07/06/2016,,N/A-StillEmployed,Active,LinkedIn,1/28/2019
+"Cross, Noah",10083,M ,Single,US Citizen,CT,6278,No,White,09/09/1965,11/10/2014,,N/A-StillEmployed,Active,Employee Referral,01/02/2019
+"Daneault, Lynn",10099,F,Single,US Citizen,VT,5473,No,White,04/19/90,05/05/2014,,N/A-StillEmployed,Active,Indeed,1/24/2019
+"Daniele, Ann  ",10212,F,Married,US Citizen,CT,6033,No,White,01/18/52,11/10/2014,,N/A-StillEmployed,Active,LinkedIn,02/12/2019
+"Darson, Jene'ya ",10056,F,Married,US Citizen,MA,2110,No,White,11/05/1978,07/02/2012,,N/A-StillEmployed,Active,Indeed,2/25/2019
+"Davis, Daniel",10143,M ,Single,Eligible NonCitizen,MA,2458,No,Two or more races,09/14/79,11/07/2011,,N/A-StillEmployed,Active,LinkedIn,2/27/2019
+"Dee, Randy",10311,M ,Married,US Citizen,MA,2138,No,White,04/15/88,07/09/2018,,N/A-StillEmployed,Active,Indeed,1/31/2019
+"DeGweck,  James",10070,M ,Married,US Citizen,MA,1810,No,White,10/31/77,5/16/2011,06/08/2016,unhappy,Voluntarily Terminated,Indeed,04/02/2016
+"Del Bosque, Keyla",10155,F,Single,US Citizen,MA,2176,No,Black or African American,07/05/1979,01/09/2012,,N/A-StillEmployed,Active,CareerBuilder,1/25/2019
+"Delarge, Alex",10306,M ,Single,US Citizen,AL,36006,No,Two or more races,11/02/1975,9/29/2014,,N/A-StillEmployed,Active,Indeed,1/30/2019
+"Demita, Carla",10100,F,Separated,US Citizen,MA,2343,No,Black or African American,02/25/51,04/04/2011,11/04/2015,more money,Voluntarily Terminated,Google Search,05/06/2015
+"Desimone, Carl ",10310,M ,Married,US Citizen,MA,2061,No,White,04/19/67,07/07/2014,,N/A-StillEmployed,Active,Indeed,1/31/2019
+"DeVito, Tommy",10197,M ,Single,US Citizen,MA,2045,No,White,09/04/1983,2/15/2017,,N/A-StillEmployed,Active,Indeed,1/23/2019
+"Dickinson, Geoff ",10276,M ,Single,US Citizen,MA,2180,No,White,11/15/82,05/12/2014,,N/A-StillEmployed,Active,Indeed,2/19/2019
+"Dietrich, Jenna  ",10304,F,Single,US Citizen,WA,98052,Yes,White,05/14/87,2/20/2012,,N/A-StillEmployed,Active,Website,1/29/2019
+"DiNocco, Lily ",10284,F,Married,US Citizen,MA,2351,No,Black or African American,12/02/1978,01/07/2013,,N/A-StillEmployed,Active,Indeed,1/18/2019
+"Dobrin, Denisa  S",10207,F,Single,US Citizen,MA,2125,Yes,White,10/07/1986,04/02/2012,,N/A-StillEmployed,Active,CareerBuilder,2/19/2019
+"Dolan, Linda",10133,F,Married,US Citizen,MA,2119,No,White,07/18/88,01/05/2015,,N/A-StillEmployed,Active,Employee Referral,2/25/2019
+"Dougall, Eric",10028,M ,Single,US Citizen,MA,1886,No,Black or African American,07/09/1970,01/05/2014,,N/A-StillEmployed,Active,Indeed,01/04/2019
+"Driver, Elle",10006,F,Single,US Citizen,CA,90007,No,White,11/08/1988,01/10/2011,,N/A-StillEmployed,Active,Indeed,1/27/2019
+"Dunn, Amy  ",10105,F,Single,US Citizen,MA,1731,No,White,11/28/73,9/18/2014,,N/A-StillEmployed,Active,Google Search,1/15/2019
+"Dunne, Amy",10211,F,Married,US Citizen,MA,1749,No,White,09/23/73,4/26/2010,,N/A-StillEmployed,Active,Google Search,1/21/2019
+"Eaton, Marianne",10064,F,Married,US Citizen,MA,2343,No,White,09/05/1991,04/04/2011,06/06/2017,military,Voluntarily Terminated,Google Search,04/09/2017
+"Engdahl, Jean",10247,M ,Single,US Citizen,MA,2026,No,White,05/31/74,11/10/2014,,N/A-StillEmployed,Active,LinkedIn,2/13/2019
+"England, Rex",10235,M ,Married,US Citizen,MA,2045,No,White,08/25/78,3/31/2014,,N/A-StillEmployed,Active,Employee Referral,01/11/2019
+"Erilus, Angela",10299,F,Separated,US Citizen,MA,2133,No,White,08/25/89,07/07/2014,,N/A-StillEmployed,Active,Indeed,2/25/2019
+"Estremera, Miguel",10280,M ,Single,US Citizen,MA,2129,No,White,09/02/1983,04/02/2012,9/27/2018,attendance,Terminated for Cause,Google Search,04/12/2018
+"Evensen, April",10296,F,Single,US Citizen,MA,2458,No,White,05/06/1989,2/17/2014,2/25/2018,"no-call, no-show",Terminated for Cause,Google Search,1/15/2017
+"Exantus, Susan",10290,F,Married,US Citizen,MA,1749,No,Black or African American,05/15/87,05/02/2011,06/05/2013,attendance,Terminated for Cause,Indeed,08/10/2012
+"Faller, Megan ",10263,F,Married,US Citizen,MA,1824,No,Black or African American,09/22/78,07/07/2014,,N/A-StillEmployed,Active,LinkedIn,2/22/2019
+"Fancett, Nicole",10136,F,Single,US Citizen,MA,2324,No,Black or African American,09/27/87,2/17/2014,,N/A-StillEmployed,Active,LinkedIn,01/07/2019
+"Ferguson, Susan",10189,F,Married,US Citizen,MA,2176,No,White,04/14/55,11/07/2011,5/17/2016,military,Voluntarily Terminated,Google Search,02/04/2016
+"Fernandes, Nilson  ",10308,M ,Married,US Citizen,MA,2132,No,White,10/18/89,05/11/2015,,N/A-StillEmployed,Active,Indeed,01/03/2019
+"Fett, Boba",10309,M ,Single,US Citizen,MA,2138,No,White,06/18/87,3/30/2015,,N/A-StillEmployed,Active,LinkedIn,02/04/2019
+"Fidelia,  Libby",10049,F,Married,US Citizen,MA,2155,No,White,03/16/81,01/09/2012,,N/A-StillEmployed,Active,Google Search,1/29/2019
+"Fitzpatrick, Michael  J",10093,M ,Single,US Citizen,MA,2143,Yes,White,10/01/1981,5/16/2011,6/24/2013,hours,Voluntarily Terminated,Google Search,04/05/2013
+"Foreman, Tanya",10163,F,Married,US Citizen,MA,2170,No,White,11/08/1983,04/04/2011,01/09/2013,career change,Voluntarily Terminated,Google Search,01/07/2012
+"Forrest, Alex",10305,M ,Married,US Citizen,MA,2330,No,White,07/07/1975,9/29/2014,8/19/2018,Fatal attraction,Terminated for Cause,Employee Referral,1/28/2019
+"Foss, Jason",10015,M ,Single,US Citizen,MA,1460,No,Black or African American,07/05/1980,4/15/2011,,N/A-StillEmployed,Active,Indeed,01/07/2019
+"Foster-Baker, Amy",10080,F,Married,US Citizen,MA,2050,no,White,04/16/79,01/05/2009,,N/A-StillEmployed,Active,Other,02/08/2019
+"Fraval, Maruk ",10258,M ,Single,US Citizen,CT,6050,No,Black or African American,08/28/63,09/06/2011,,N/A-StillEmployed,Active,CareerBuilder,1/27/2019
+"Galia, Lisa",10273,F,Single,US Citizen,CT,6040,No,White,07/06/1968,05/01/2010,,N/A-StillEmployed,Active,LinkedIn,02/01/2019
+"Garcia, Raul",10111,M ,Single,US Citizen,MA,1905,Yes,White,09/15/85,3/30/2015,,N/A-StillEmployed,Active,Employee Referral,2/18/2019
+"Gaul, Barbara",10257,F,Single,US Citizen,MA,2121,Yes,Black or African American,12/02/1983,5/16/2011,,N/A-StillEmployed,Active,LinkedIn,2/26/2019
+"Gentry, Mildred",10159,F,Married,US Citizen,MA,2145,No,Black or African American,10/01/1990,3/30/2015,,N/A-StillEmployed,Active,LinkedIn,1/16/2019
+"Gerke, Melisa",10122,F,Divorced,US Citizen,MA,2330,No,Black or African American,05/15/70,11/07/2011,11/15/2016,hours,Voluntarily Terminated,Diversity Job Fair,4/29/2016
+"Gill, Whitney  ",10142,F,Widowed,US Citizen,OH,43050,No,Black or African American,07/10/1971,07/07/2014,09/05/2015,attendance,Terminated for Cause,CareerBuilder,1/15/2014
+"Gilles, Alex",10283,M ,Married,US Citizen,MA,2062,No,Black or African American,08/09/1974,04/02/2012,6/25/2015,military,Voluntarily Terminated,Diversity Job Fair,1/20/2015
+"Girifalco, Evelyn",10018,F,Single,US Citizen,MA,2451,Yes,Two or more races,05/08/1980,9/29/2014,,N/A-StillEmployed,Active,Indeed,02/07/2019
+"Givens, Myriam",10255,F,Single,US Citizen,IN,46204,No,White,09/22/89,2/16/2015,,N/A-StillEmployed,Active,Indeed,1/25/2019
+"Goble, Taisha",10246,F,Single,US Citizen,MA,2127,No,White,10/23/71,2/16/2015,3/15/2015,"no-call, no-show",Terminated for Cause,Indeed,1/20/2015
+"Goeth, Amon",10228,M ,Married,US Citizen,MA,2135,Yes,White,11/24/89,3/30/2015,,N/A-StillEmployed,Active,LinkedIn,01/10/2019
+"Gold, Shenice  ",10243,F,Single,US Citizen,MA,2451,Yes,White,06/18/92,11/11/2013,,N/A-StillEmployed,Active,Indeed,2/18/2019
+"Gonzalez, Cayo",10031,M ,Divorced,US Citizen,MA,2108,No,Black or African American,09/29/69,07/11/2011,,N/A-StillEmployed,Active,Diversity Job Fair,2/18/2019
+"Gonzalez, Juan",10300,M ,Married,US Citizen,MA,2128,No,Black or African American,10/12/1964,4/26/2010,5/30/2011,career change,Voluntarily Terminated,Diversity Job Fair,03/06/2011
+"Gonzalez, Maria",10101,F,Separated,US Citizen,MA,2472,Yes,White,04/16/81,01/05/2015,,N/A-StillEmployed,Active,Employee Referral,1/28/2019
+"Good, Susan",10237,F,Married,US Citizen,MA,1886,No,White,05/25/86,05/12/2014,,N/A-StillEmployed,Active,LinkedIn,02/07/2019
+"Gordon, David",10051,M ,Married,US Citizen,MA,2169,No,White,05/21/79,07/02/2012,,N/A-StillEmployed,Active,LinkedIn,1/14/2019
+"Gosciminski, Phylicia  ",10218,F,Separated,US Citizen,MA,1824,No,American Indian or Alaska Native,12/08/1983,9/30/2013,,N/A-StillEmployed,Active,Google Search,2/21/2019
+"Goyal, Roxana",10256,F,Married,US Citizen,MA,1864,No,Asian,10/09/1974,8/19/2013,,N/A-StillEmployed,Active,LinkedIn,2/15/2019
+"Gray, Elijiah  ",10098,M ,Divorced,US Citizen,MA,1752,No,White,07/11/1981,06/02/2015,,N/A-StillEmployed,Active,Employee Referral,01/04/2019
+"Gross, Paula",10059,F,Divorced,US Citizen,MA,2176,No,White,05/21/83,2/21/2011,01/11/2014,more money,Voluntarily Terminated,CareerBuilder,06/03/2013
+"Gruber, Hans",10234,M ,Married,US Citizen,MA,2134,No,Black or African American,06/30/89,4/20/2017,,N/A-StillEmployed,Active,Indeed,1/28/2019
+"Guilianno, Mike",10109,M ,Single,US Citizen,TN,37129,No,Two or more races,02/09/1969,03/07/2012,10/31/2014,relocation out of area,Voluntarily Terminated,LinkedIn,02/01/2013
+"Handschiegl, Joanne",10125,F,Married,US Citizen,MA,2127,No,White,03/23/77,11/28/2011,,N/A-StillEmployed,Active,Google Search,2/22/2019
+"Hankard, Earnest",10074,M ,Single,US Citizen,MA,2155,Yes,White,08/10/1988,11/11/2013,,N/A-StillEmployed,Active,LinkedIn,01/08/2019
+"Harrington, Christie ",10097,F,Single,US Citizen,MA,2324,No,White,08/18/52,01/09/2012,12/15/2015,retiring,Voluntarily Terminated,CareerBuilder,05/02/2015
+"Harrison, Kara",10007,F,Married,US Citizen,MA,1886,No,White,05/02/1974,05/12/2014,,N/A-StillEmployed,Active,CareerBuilder,2/15/2019
+"Heitzman, Anthony",10129,M ,Single,US Citizen,MA,2149,No,White,01/04/1984,8/13/2012,,N/A-StillEmployed,Active,Google Search,02/11/2019
+"Hendrickson, Trina",10075,F,Single,US Citizen,MA,2021,No,White,08/27/72,01/10/2011,6/18/2013,hours,Voluntarily Terminated,CareerBuilder,1/30/2013
+"Hitchcock, Alfred",10167,M ,Married,US Citizen,NH,3062,No,American Indian or Alaska Native,09/14/88,8/18/2014,,N/A-StillEmployed,Active,Indeed,1/30/2019
+"Homberger, Adrienne  J",10195,F,Married,Non-Citizen,MA,2445,No,White,02/16/84,8/15/2011,04/07/2012,relocation out of area,Voluntarily Terminated,Indeed,03/05/2012
+"Horton, Jayne",10112,F,Single,US Citizen,MA,2493,No,White,02/21/84,3/30/2015,,N/A-StillEmployed,Active,Indeed,01/03/2019
+"Houlihan, Debra",10272,F,Married,US Citizen,RI,2908,No,White,03/17/66,05/05/2014,,N/A-StillEmployed,Active,LinkedIn,1/21/2019
+"Howard, Estelle",10182,F,Married,US Citizen,MA,2170,No,Black or African American,09/16/85,2/16/2015,4/15/2015,"no-call, no-show",Terminated for Cause,Indeed,4/15/2015
+"Hudson, Jane",10248,F,Single,US Citizen,MA,2176,No,White,06/10/1986,2/20/2012,,N/A-StillEmployed,Active,LinkedIn,01/07/2019
+"Hunts, Julissa",10201,F,Single,US Citizen,MA,2021,No,White,03/11/1984,06/06/2016,,N/A-StillEmployed,Active,LinkedIn,1/18/2019
+"Hutter, Rosalie",10214,F,Separated,US Citizen,MA,2351,No,White,05/07/1992,06/05/2015,,N/A-StillEmployed,Active,Indeed,2/14/2019
+"Huynh, Ming",10160,F,Divorced,US Citizen,MA,1742,No,White,09/22/76,2/21/2011,04/01/2013,unhappy,Voluntarily Terminated,Google Search,02/01/2013
+"Immediato, Walter",10289,M ,Married,US Citizen,MA,2128,No,Asian,11/15/76,2/21/2011,9/24/2012,unhappy,Voluntarily Terminated,Indeed,04/12/2012
+"Ivey, Rose ",10139,F,Single,US Citizen,MA,1775,No,White,01/28/91,8/19/2013,,N/A-StillEmployed,Active,Indeed,1/14/2019
+"Jackson, Maryellen",10227,F,Single,US Citizen,MA,2081,No,Black or African American,09/11/1972,11/05/2012,,N/A-StillEmployed,Active,LinkedIn,1/17/2019
+"Jacobi, Hannah  ",10236,F,Divorced,US Citizen,MA,1778,No,White,03/22/66,9/30/2013,,N/A-StillEmployed,Active,Employee Referral,2/22/2019
+"Jeannite, Tayana",10009,F,Divorced,US Citizen,MA,1821,No,American Indian or Alaska Native,11/06/1986,07/05/2011,,N/A-StillEmployed,Active,LinkedIn,2/25/2019
+"Jhaveri, Sneha  ",10060,F,Separated,US Citizen,MA,2109,No,White,04/13/64,01/06/2014,,N/A-StillEmployed,Active,LinkedIn,1/21/2019
+"Johnson, George",10034,M ,Married,US Citizen,MA,2445,No,White,08/19/59,11/07/2011,4/29/2018,more money,Voluntarily Terminated,CareerBuilder,2/14/2018
+"Johnson, Noelle ",10156,F,Married,US Citizen,MA,2301,No,Asian,11/07/1986,01/05/2015,,N/A-StillEmployed,Active,Indeed,02/11/2019
+"Johnston, Yen",10036,F,Single,US Citizen,MA,2128,No,White,09/08/1969,07/07/2014,,N/A-StillEmployed,Active,LinkedIn,01/11/2019
+"Jung, Judy  ",10138,F,Married,US Citizen,MA,2446,No,Black or African American,04/17/86,01/10/2011,04/01/2016,unhappy,Voluntarily Terminated,CareerBuilder,02/03/2016
+"Kampew, Donysha",10244,F,Single,US Citizen,PA,19444,No,White,11/11/1989,11/07/2011,4/24/2014,maternity leave - did not return,Voluntarily Terminated,Google Search,3/30/2013
+"Keatts, Kramer ",10192,M ,Single,US Citizen,MA,1887,No,White,01/19/76,9/30/2013,,N/A-StillEmployed,Active,Indeed,1/23/2019
+"Khemmich, Bartholemew",10231,M ,Single,US Citizen,CO,80820,No,White,11/27/79,8/19/2013,,N/A-StillEmployed,Active,Indeed,1/22/2019
+"King, Janet",10089,F,Married,US Citizen,MA,1902,Yes,White,09/21/54,07/02/2012,,N/A-StillEmployed,Active,Indeed,1/17/2019
+"Kinsella, Kathleen  ",10166,F,Married,US Citizen,MA,2170,No,White,12/08/1973,9/26/2011,06/04/2015,more money,Voluntarily Terminated,Google Search,03/01/2015
+"Kirill, Alexandra  ",10170,F,Married,US Citizen,MA,2127,No,White,10/08/1970,9/26/2011,01/09/2014,more money,Voluntarily Terminated,Google Search,1/30/2013
+"Knapp, Bradley  J",10208,M ,Single,US Citizen,MA,1721,No,Black or African American,11/10/1977,2/17/2014,,N/A-StillEmployed,Active,LinkedIn,02/06/2019
+"Kretschmer, John",10176,M ,Married,US Citizen,MA,1801,No,Asian,02/02/1980,01/10/2011,,N/A-StillEmployed,Active,Indeed,1/21/2019
+"Kreuger, Freddy",10165,M ,Single,US Citizen,NY,10171,Yes,Black or African American,02/24/69,03/07/2011,,N/A-StillEmployed,Active,Diversity Job Fair,1/17/2019
+"Lajiri,  Jyoti",10113,M ,Married,US Citizen,MA,2169,No,White,04/23/86,11/10/2014,,N/A-StillEmployed,Active,Employee Referral,01/07/2019
+"Landa, Hans",10092,M ,Married,US Citizen,MA,1890,No,White,07/01/1972,01/10/2011,12/12/2015,attendance,Terminated for Cause,Employee Referral,2/15/2015
+"Langford, Lindsey",10106,F,Divorced,US Citizen,MA,2090,No,Asian,07/25/79,01/07/2013,3/31/2014,Another position,Voluntarily Terminated,Indeed,2/20/2014
+"Langton, Enrico",10052,M ,Married,US Citizen,MA,2048,No,White,12/09/1986,07/09/2012,,N/A-StillEmployed,Active,LinkedIn,02/04/2019
+"LaRotonda, William  ",10038,M ,Divorced,US Citizen,MA,1460,No,Black or African American,04/26/84,01/06/2014,,N/A-StillEmployed,Active,Website,1/17/2019
+"Latif, Mohammed",10249,M ,Married,US Citizen,MA,2126,No,White,05/09/1984,04/02/2012,4/15/2013,more money,Voluntarily Terminated,Google Search,2/20/2013
+"Le, Binh",10232,F,Single,US Citizen,MA,1886,No,Asian,06/14/87,10/02/2016,,N/A-StillEmployed,Active,Indeed,01/08/2019
+"Leach, Dallas",10087,F,Single,US Citizen,MA,1810,No,Asian,01/17/79,9/26/2011,8/19/2018,return to school,Voluntarily Terminated,CareerBuilder,07/02/2017
+"LeBlanc, Brandon  R",10134,M ,Married,US Citizen,MA,1460,No,White,06/10/1984,01/05/2016,,N/A-StillEmployed,Active,CareerBuilder,1/28/2019
+"Lecter, Hannibal",10251,M ,Married,US Citizen,MA,1776,No,Asian,09/02/1982,5/14/2012,,N/A-StillEmployed,Active,Google Search,2/22/2019
+"Leruth, Giovanni",10103,M ,Separated,US Citizen,UT,84111,No,Black or African American,12/27/88,4/30/2012,,N/A-StillEmployed,Active,Website,1/29/2019
+"Liebig, Ketsia",10017,F,Married,US Citizen,MA,2110,No,White,10/26/81,9/30/2013,,N/A-StillEmployed,Active,Website,1/21/2019
+"Linares, Marilyn ",10186,F,Married,US Citizen,MA,1886,No,White,03/26/81,07/05/2011,9/26/2018,unhappy,Voluntarily Terminated,Indeed,03/02/2018
+"Linden, Mathew",10137,M ,Married,US Citizen,MA,1770,No,White,03/19/79,07/08/2013,,N/A-StillEmployed,Active,LinkedIn,2/18/2019
+"Lindsay, Leonara ",10008,F,Single,US Citizen,CT,6070,Yes,Black or African American,10/05/1988,1/21/2011,,N/A-StillEmployed,Active,Diversity Job Fair,1/25/2019
+"Lundy, Susan",10096,F,Widowed,US Citizen,MA,2122,No,White,12/26/76,07/08/2013,9/15/2016,more money,Voluntarily Terminated,LinkedIn,06/10/2016
+"Lunquist, Lisa",10035,F,Single,US Citizen,MA,2324,No,Black or African American,03/28/82,8/19/2013,,N/A-StillEmployed,Active,Indeed,02/12/2019
+"Lydon, Allison",10057,F,Married,US Citizen,MA,2122,No,Black or African American,10/22/75,2/16/2015,,N/A-StillEmployed,Active,Website,1/23/2019
+"Lynch, Lindsay",10004,F,Single,US Citizen,MA,1844,Yes,Black or African American,02/14/73,11/07/2011,11/14/2015,Another position,Voluntarily Terminated,Diversity Job Fair,02/02/2015
+"MacLennan, Samuel",10191,M ,Widowed,US Citizen,MA,1938,No,White,11/09/1972,9/24/2012,9/26/2017,hours,Voluntarily Terminated,Indeed,04/01/2017
+"Mahoney, Lauren  ",10219,F,Single,US Citizen,MA,2189,No,White,07/07/1986,01/06/2014,,N/A-StillEmployed,Active,LinkedIn,2/26/2019
+"Manchester, Robyn",10077,F,Married,US Citizen,MA,2324,No,White,08/25/76,05/11/2016,,N/A-StillEmployed,Active,LinkedIn,1/21/2019
+"Mancuso, Karen",10073,F,Married,US Citizen,MA,2176,No,Two or more races,12/10/1986,07/05/2011,8/19/2012,Another position,Voluntarily Terminated,LinkedIn,07/02/2012
+"Mangal, Debbie",10279,F,Married,US Citizen,MA,2451,No,White,11/07/1974,11/11/2013,,N/A-StillEmployed,Active,LinkedIn,1/22/2019
+"Martin, Sandra",10110,F,Single,US Citizen,MA,2135,No,Asian,11/07/1987,11/11/2013,,N/A-StillEmployed,Active,Google Search,1/14/2019
+"Maurice, Shana",10053,F,Married,US Citizen,MA,2330,No,White,11/22/77,5/31/2011,,N/A-StillEmployed,Active,Indeed,01/10/2019
+"Carthy, B'rigit",10076,F,Single,US Citizen,MA,2149,No,Black or African American,05/21/87,3/30/2015,,N/A-StillEmployed,Active,LinkedIn,02/07/2019
+"Mckenna, Sandy",10145,F,Married,US Citizen,MA,2184,No,Black or African American,01/07/1987,01/07/2013,,N/A-StillEmployed,Active,CareerBuilder,1/30/2019
+"McKinzie, Jac",10202,M ,Married,US Citizen,TX,78789,No,Two or more races,07/01/1984,07/06/2016,,N/A-StillEmployed,Active,Website,1/29/2019
+"Meads, Elizabeth",10128,F,Single,US Citizen,MA,1760,No,Black or African American,05/30/68,04/02/2012,11/11/2016,Another position,Voluntarily Terminated,Diversity Job Fair,02/05/2016
+"Medeiros, Jennifer",10068,F,Single,US Citizen,MA,2346,No,White,09/22/76,3/30/2015,,N/A-StillEmployed,Active,CareerBuilder,1/21/2019
+"Miller, Brannon",10116,M ,Single,US Citizen,MA,2045,yes,Hispanic,08/10/1981,8/16/2012,,N/A-StillEmployed,Active,Indeed,1/14/2019
+"Miller, Ned",10298,M ,Single,US Citizen,MA,2472,No,White,06/29/85,8/15/2011,09/04/2014,unhappy,Voluntarily Terminated,LinkedIn,1/14/2013
+"Monkfish, Erasumus",10213,M ,Married,US Citizen,MA,1450,No,White,08/17/92,11/07/2011,,N/A-StillEmployed,Active,LinkedIn,01/08/2019
+"Monroe, Peter",10288,M ,Married,Eligible NonCitizen,MA,2134,Yes,Black or African American,10/05/1986,2/15/2012,,N/A-StillEmployed,Active,Diversity Job Fair,2/22/2019
+"Monterro, Luisa",10025,F,Single,US Citizen,MA,2126,No,Black or African American,04/24/70,5/13/2013,,N/A-StillEmployed,Active,Indeed,1/14/2019
+"Moran, Patrick",10223,M ,Single,US Citizen,MA,2127,No,Black or African American,12/03/1976,01/09/2012,,N/A-StillEmployed,Active,Diversity Job Fair,1/31/2019
+"Morway, Tanya",10151,F,Married,US Citizen,MA,2048,No,White,04/04/1979,2/16/2015,,N/A-StillEmployed,Active,CareerBuilder,02/11/2019
+"Motlagh,  Dawn",10254,F,Divorced,US Citizen,MA,2453,No,White,07/07/1984,04/01/2013,,N/A-StillEmployed,Active,LinkedIn,1/17/2019
+"Moumanil, Maliki ",10120,M ,Separated,US Citizen,MA,1460,No,Black or African American,12/01/1974,5/13/2013,,N/A-StillEmployed,Active,LinkedIn,1/28/2019
+"Myers, Michael",10216,M ,Single,US Citizen,MA,1550,No,Asian,04/18/80,07/08/2013,,N/A-StillEmployed,Active,LinkedIn,1/22/2019
+"Navathe, Kurt",10079,M ,Single,US Citizen,MA,2056,No,Asian,04/25/70,02/10/2017,,N/A-StillEmployed,Active,Indeed,2/25/2019
+"Ndzi, Colombui",10215,M ,Single,US Citizen,MA,2110,No,Black or African American,05/02/1989,9/26/2011,04/04/2014,return to school,Voluntarily Terminated,Diversity Job Fair,03/02/2013
+"Ndzi, Horia",10185,M ,Married,US Citizen,MA,2421,No,White,03/28/83,04/01/2013,5/25/2016,more money,Voluntarily Terminated,Employee Referral,03/06/2016
+"Newman, Richard ",10063,M ,Married,US Citizen,MA,2136,No,White,04/08/1977,05/12/2014,,N/A-StillEmployed,Active,LinkedIn,2/18/2019
+"Ngodup, Shari ",10037,F,Separated,US Citizen,MA,1810,No,Black or African American,06/03/1967,04/01/2013,,N/A-StillEmployed,Active,Diversity Job Fair,2/13/2019
+"Nguyen, Dheepa",10042,F,Single,US Citizen,GA,30428,No,Two or more races,03/31/89,07/08/2013,,N/A-StillEmployed,Active,Indeed,1/25/2019
+"Nguyen, Lei-Ming",10206,F,Single,US Citizen,MA,2132,No,White,07/07/1984,07/08/2013,,N/A-StillEmployed,Active,LinkedIn,01/02/2019
+"Nowlan, Kristie",10104,F,Single,US Citizen,MA,1040,No,White,11/23/85,11/10/2014,,N/A-StillEmployed,Active,Indeed,1/16/2019
+"O'hare, Lynn",10303,F,Single,US Citizen,MA,2152,No,Two or more races,09/30/80,3/31/2014,05/01/2018,performance,Terminated for Cause,LinkedIn,03/09/2018
+"Oliver, Brooke ",10078,F,Married,US Citizen,MA,2492,No,Asian,02/11/1952,5/14/2012,8/19/2013,unhappy,Voluntarily Terminated,LinkedIn,07/02/2013
+"Onque, Jasmine",10121,F,Single,US Citizen,FL,33174,Yes,White,05/11/1990,9/30/2013,,N/A-StillEmployed,Active,Indeed,1/25/2019
+"Osturnka, Adeel",10021,M ,Married,US Citizen,MA,2478,No,White,12/11/1976,9/30/2013,,N/A-StillEmployed,Active,LinkedIn,02/07/2019
+"Owad, Clinton",10281,M ,Single,US Citizen,MA,1760,No,Black or African American,11/24/79,2/17/2014,,N/A-StillEmployed,Active,LinkedIn,02/04/2019
+"Ozark, Travis",10041,M ,Single,US Citizen,NC,27229,No,White,05/19/82,01/05/2015,,N/A-StillEmployed,Active,Website,1/14/2019
+"Panjwani, Nina",10148,F,Married,US Citizen,MA,2351,No,White,05/01/1979,02/07/2011,01/12/2014,Another position,Voluntarily Terminated,Google Search,03/04/2013
+"Patronick, Lucas",10005,M ,Single,US Citizen,MA,1844,No,Black or African American,02/20/79,11/07/2011,09/07/2015,Another position,Voluntarily Terminated,Diversity Job Fair,8/16/2015
+"Pearson, Randall",10259,M ,Married,US Citizen,MA,2747,No,White,09/05/1984,12/01/2014,05/01/2016,performance,Voluntarily Terminated,Employee Referral,1/16/2016
+"Smith, Martin",10286,M ,Single,US Citizen,MA,2458,No,Black or African American,03/17/88,01/10/2011,12/28/2017,career change,Voluntarily Terminated,Google Search,04/06/2017
+"Pelletier, Ermine",10297,F,Married,US Citizen,MA,2472,No,Asian,07/18/89,07/05/2011,9/15/2015,unhappy,Voluntarily Terminated,CareerBuilder,02/06/2015
+"Perry, Shakira",10171,F,Single,US Citizen,MA,2176,No,White,07/20/86,5/16/2011,10/25/2015,medical issues,Voluntarily Terminated,LinkedIn,5/13/2014
+"Peters, Lauren",10032,F,Married,US Citizen,MA,1886,No,White,08/17/86,5/16/2011,02/04/2013,more money,Voluntarily Terminated,Indeed,01/10/2013
+"Peterson, Ebonee  ",10130,F,Married,US Citizen,MA,2030,No,White,05/09/1977,10/25/2010,5/18/2016,Another position,Voluntarily Terminated,Indeed,03/05/2015
+"Petingill, Shana  ",10217,F,Married,Eligible NonCitizen,MA,2050,No,Asian,03/10/1979,04/02/2012,,N/A-StillEmployed,Active,LinkedIn,1/14/2019
+"Petrowsky, Thelma",10016,F,Married,US Citizen,MA,1886,No,Black or African American,09/16/84,11/10/2014,,N/A-StillEmployed,Active,Employee Referral,01/04/2019
+"Pham, Hong",10050,M ,Married,US Citizen,MA,2451,No,Asian,03/06/1988,07/05/2011,11/30/2012,more money,Voluntarily Terminated,Google Search,2/20/2012
+"Pitt, Brad ",10164,M ,Single,US Citizen,MA,2451,No,White,11/23/81,11/05/2007,,N/A-StillEmployed,Active,Google Search,2/25/2019
+"Potts, Xana",10124,F,Married,US Citizen,KY,40220,No,Black or African American,08/29/88,01/09/2012,,N/A-StillEmployed,Active,Website,02/01/2019
+"Power, Morissa",10187,F,Divorced,Eligible NonCitizen,MA,1742,No,Asian,10/15/84,5/16/2011,06/04/2018,Another position,Voluntarily Terminated,Google Search,04/02/2018
+"Punjabhi, Louis  ",10225,M ,Single,US Citizen,MA,2109,No,White,06/19/61,01/06/2014,,N/A-StillEmployed,Active,Employee Referral,01/07/2019
+"Purinton, Janine",10262,F,Divorced,US Citizen,MA,2474,No,White,09/22/70,9/24/2012,6/18/2013,unhappy,Voluntarily Terminated,Indeed,04/02/2013
+"Quinn, Sean",10131,M ,Married,Eligible NonCitizen,MA,2045,No,Black or African American,11/06/1984,2/21/2011,8/15/2015,career change,Voluntarily Terminated,Diversity Job Fair,4/19/2014
+"Rachael, Maggie",10239,F,Married,US Citizen,MA,2110,No,Black or African American,05/12/1980,10/02/2016,,N/A-StillEmployed,Active,Indeed,02/06/2019
+"Rarrick, Quinn",10152,M ,Divorced,US Citizen,MA,2478,No,White,12/31/84,9/26/2011,04/07/2018,more money,Voluntarily Terminated,Indeed,02/04/2018
+"Ren, Kylo",10140,M ,Married,US Citizen,ID,83706,No,White,10/12/1954,05/12/2014,,N/A-StillEmployed,Active,CareerBuilder,1/28/2019
+"Rhoads, Thomas",10058,M ,Divorced,US Citizen,MA,2176,Yes,White,07/22/82,5/16/2011,1/15/2016,retiring,Voluntarily Terminated,LinkedIn,3/30/2015
+"Rivera, Haley  ",10011,F,Married,US Citizen,MA,2171,No,Asian,01/12/1973,11/28/2011,,N/A-StillEmployed,Active,Google Search,02/11/2019
+"Roberson, May",10230,F,Divorced,Eligible NonCitizen,MA,1902,No,Black or African American,09/05/1981,9/26/2011,10/22/2011,return to school,Voluntarily Terminated,Google Search,10/22/2011
+"Robertson, Peter",10224,M ,Married,US Citizen,MA,2138,No,White,07/03/1972,07/05/2011,02/08/2012,Another position,Voluntarily Terminated,Indeed,01/06/2012
+"Robinson, Alain  ",10047,M ,Married,US Citizen,MA,1420,No,Black or African American,01/07/1974,01/10/2011,1/26/2016,attendance,Voluntarily Terminated,Indeed,01/10/2015
+"Robinson, Cherly",10285,F,Married,US Citizen,MA,1460,No,White,01/07/1985,01/10/2011,5/17/2016,attendance,Terminated for Cause,Indeed,04/05/2016
+"Robinson, Elias",10020,M ,Widowed,US Citizen,MA,1730,No,White,01/28/85,07/08/2013,,N/A-StillEmployed,Active,Employee Referral,02/11/2019
+"Roby, Lori ",10162,F,Married,US Citizen,MA,1886,No,White,10/11/1981,2/16/2015,,N/A-StillEmployed,Active,Employee Referral,2/14/2019
+"Roehrich, Bianca",10149,F,Single,US Citizen,MA,2703,Yes,White,05/27/73,01/05/2015,11/10/2018,Another position,Voluntarily Terminated,LinkedIn,2/13/2018
+"Roper, Katie",10086,F,Single,US Citizen,MA,2056,No,Black or African American,11/21/72,01/07/2017,,N/A-StillEmployed,Active,Indeed,02/06/2019
+"Rose, Ashley  ",10054,F,Separated,US Citizen,MA,1886,No,White,12/05/1974,01/06/2014,,N/A-StillEmployed,Active,Website,1/31/2019
+"Rossetti, Bruno",10065,M ,Single,US Citizen,MA,2155,No,White,03/18/87,04/04/2011,8/13/2018,Another position,Voluntarily Terminated,Google Search,07/02/2018
+"Roup,Simon",10198,M ,Single,US Citizen,MA,2481,No,White,04/05/1973,1/20/2013,,N/A-StillEmployed,Active,Indeed,2/18/2019
+"Ruiz, Ricardo",10222,M ,Divorced,US Citizen,MA,1915,No,Black or African American,01/04/1964,01/09/2012,11/04/2015,hours,Voluntarily Terminated,Diversity Job Fair,01/04/2015
+"Saada, Adell",10126,F,Married,US Citizen,MA,2132,No,White,07/24/86,11/05/2012,,N/A-StillEmployed,Active,Indeed,2/13/2019
+"Saar-Beckles, Melinda",10295,F,Single,US Citizen,MA,1801,No,Black or African American,06/06/1968,07/04/2016,,N/A-StillEmployed,Active,Diversity Job Fair,2/18/2019
+"Sadki, Nore  ",10260,M ,Single,US Citizen,MA,2148,No,White,12/21/74,01/05/2009,7/30/2018,relocation out of area,Voluntarily Terminated,Google Search,02/05/2018
+"Sahoo, Adil",10233,M ,Married,US Citizen,MA,2062,No,White,04/26/86,8/30/2010,,N/A-StillEmployed,Active,CareerBuilder,01/10/2019
+"Salter, Jason",10229,M ,Divorced,US Citizen,MA,2452,No,Black or African American,12/17/87,01/05/2015,10/31/2015,hours,Voluntarily Terminated,LinkedIn,4/20/2015
+"Sander, Kamrin",10169,F,Married,US Citizen,MA,2154,No,Black or African American,07/10/1988,9/29/2014,,N/A-StillEmployed,Active,LinkedIn,2/18/2019
+"Sewkumar, Nori",10071,F,Single,US Citizen,MA,2191,No,Asian,03/10/1975,9/30/2013,,N/A-StillEmployed,Active,Google Search,02/06/2019
+"Shepard, Anita ",10179,F,Married,US Citizen,MA,1773,No,White,04/14/81,9/30/2014,,N/A-StillEmployed,Active,LinkedIn,01/07/2019
+"Shields, Seffi",10091,F,Married,US Citizen,MA,2149,No,White,08/24/85,8/19/2013,,N/A-StillEmployed,Active,LinkedIn,2/15/2019
+"Simard, Kramer",10178,M ,Married,US Citizen,MA,2110,Yes,White,02/08/1970,01/05/2015,,N/A-StillEmployed,Active,Employee Referral,1/14/2019
+"Singh, Nan ",10039,F,Single,US Citizen,MA,2330,No,White,05/19/88,05/01/2015,,N/A-StillEmployed,Active,Website,1/15/2019
+"Sloan, Constance",10095,F,Single,US Citizen,MA,1851,No,White,11/25/87,10/26/2009,04/08/2015,maternity leave - did not return,Voluntarily Terminated,CareerBuilder,04/02/2015
+"Smith, Joe",10027,M ,Single,US Citizen,MA,2045,No,White,10/30/63,9/29/2014,,N/A-StillEmployed,Active,Indeed,1/28/2019
+"Smith, John",10291,M ,Divorced,US Citizen,MA,1886,No,Black or African American,08/16/84,5/18/2014,,N/A-StillEmployed,Active,Diversity Job Fair,1/16/2019
+"Smith, Leigh Ann",10153,F,Married,US Citizen,MA,1844,No,Black or African American,06/14/87,9/26/2011,9/25/2013,career change,Voluntarily Terminated,Diversity Job Fair,8/15/2013
+"Smith, Sade",10157,F,Single,US Citizen,MA,2130,No,White,02/02/1965,11/11/2013,,N/A-StillEmployed,Active,Employee Referral,1/24/2019
+"Soto, Julia ",10119,F,Married,US Citizen,MA,2360,No,Black or African American,03/12/1973,06/10/2011,,N/A-StillEmployed,Active,LinkedIn,02/08/2019
+"Soze, Keyser",10180,M ,Married,US Citizen,MA,1545,No,Asian,02/09/1983,6/30/2016,,N/A-StillEmployed,Active,LinkedIn,1/14/2019
+"Sparks, Taylor  ",10302,F,Married,US Citizen,MA,2093,No,White,07/20/68,2/20/2012,,N/A-StillEmployed,Active,Indeed,2/25/2019
+"Spirea, Kelley",10090,F,Married,US Citizen,MA,2451,No,White,09/30/75,10/02/2012,,N/A-StillEmployed,Active,LinkedIn,2/14/2019
+"Squatrito, Kristen",10030,F,Divorced,US Citizen,MA,2359,No,White,03/26/73,5/13/2013,6/29/2015,unhappy,Voluntarily Terminated,LinkedIn,03/02/2015
+"Stanford,Barbara  M",10278,F,Divorced,US Citizen,MA,2050,No,Two or more races,08/25/82,01/10/2011,,N/A-StillEmployed,Active,Google Search,02/07/2019
+"Stansfield, Norman",10307,M ,Married,US Citizen,NV,89139,No,White,05/09/1974,05/12/2014,,N/A-StillEmployed,Active,Website,1/17/2019
+"Steans, Tyrone  ",10147,M ,Single,US Citizen,MA,2703,No,White,09/01/1986,9/29/2014,,N/A-StillEmployed,Active,Indeed,1/18/2019
+"Stoica, Rick",10266,M ,Married,US Citizen,MA,2301,No,Asian,03/14/85,2/17/2014,,N/A-StillEmployed,Active,LinkedIn,01/11/2019
+"Strong, Caitrin",10241,F,Married,US Citizen,MT,59102,No,Black or African American,05/12/1989,9/27/2010,,N/A-StillEmployed,Active,Indeed,1/31/2019
+"Sullivan, Kissy ",10158,F,Married,US Citizen,MA,1776,No,Black or African American,03/28/78,01/08/2009,,N/A-StillEmployed,Active,Indeed,1/24/2019
+"Sullivan, Timothy",10117,M ,Married,US Citizen,MA,2747,Yes,White,10/07/1982,01/05/2015,,N/A-StillEmployed,Active,Google Search,1/24/2019
+"Sutwell, Barbara",10209,F,Single,Eligible NonCitizen,MA,2718,No,Asian,08/15/68,5/14/2012,,N/A-StillEmployed,Active,Indeed,1/31/2019
+"Szabo, Andrew",10024,M ,Single,US Citizen,MA,2140,No,White,05/06/1983,07/07/2014,,N/A-StillEmployed,Active,LinkedIn,2/18/2019
+"Tannen, Biff",10173,M ,Married,US Citizen,MA,2134,No,White,10/24/87,4/20/2017,,N/A-StillEmployed,Active,Indeed,01/02/2019
+"Tavares, Desiree  ",10221,F,Married,Non-Citizen,MA,1801,No,Black or African American,04/03/1975,4/27/2009,04/01/2013,Another position,Voluntarily Terminated,Diversity Job Fair,2/15/2012
+"Tejeda, Lenora ",10146,F,Married,US Citizen,MA,2129,No,White,05/24/53,5/16/2011,07/08/2017,Another position,Voluntarily Terminated,Google Search,4/18/2017
+"Terry, Sharlene ",10161,F,Single,US Citizen,OR,97756,No,Black or African American,05/07/1965,9/29/2014,,N/A-StillEmployed,Active,Indeed,1/28/2019
+"Theamstern, Sophia",10141,F,Single,US Citizen,MA,2066,No,White,05/09/1965,07/05/2011,09/05/2016,return to school,Voluntarily Terminated,Indeed,03/02/2016
+"Thibaud, Kenneth",10268,M ,Widowed,US Citizen,MA,2472,No,White,09/16/75,6/25/2007,8/30/2010,military,Voluntarily Terminated,Other,7/14/2010
+"Tippett, Jeanette",10123,F,Divorced,US Citizen,MA,2093,No,Black or African American,06/05/1967,2/18/2013,,N/A-StillEmployed,Active,Indeed,1/14/2019
+"Torrence, Jack",10013,M ,Separated,US Citizen,ND,58782,No,White,01/15/68,01/09/2006,,N/A-StillEmployed,Active,Indeed,01/04/2019
+"Trang, Mei",10287,F,Single,US Citizen,MA,2021,No,White,05/16/83,2/17/2014,,N/A-StillEmployed,Active,LinkedIn,02/11/2019
+"Tredinnick, Neville ",10044,M ,Married,US Citizen,MA,1420,No,White,05/05/1988,01/05/2015,02/12/2016,medical issues,Voluntarily Terminated,CareerBuilder,4/15/2015
+"True, Edward",10102,M ,Single,Non-Citizen,MA,2451,No,Black or African American,06/14/83,2/18/2013,4/15/2018,medical issues,Voluntarily Terminated,Diversity Job Fair,02/12/2017
+"Trzeciak, Cybil",10270,F,Single,US Citizen,MA,1778,No,White,03/15/85,01/10/2011,07/02/2014,unhappy,Voluntarily Terminated,LinkedIn,01/05/2014
+"Turpin, Jumil",10045,M ,Married,Eligible NonCitizen,MA,2343,No,White,03/31/69,3/30/2015,,N/A-StillEmployed,Active,Employee Referral,1/14/2019
+"Valentin,Jackie",10205,F,Married,US Citizen,AZ,85006,No,Two or more races,05/23/91,07/05/2011,,N/A-StillEmployed,Active,Indeed,1/17/2019
+"Veera, Abdellah ",10014,M ,Divorced,US Citizen,MA,2171,No,White,01/31/87,8/13/2012,02/05/2016,maternity leave - did not return,Voluntarily Terminated,LinkedIn,02/01/2016
+"Vega, Vincent",10144,M ,Divorced,US Citizen,MA,2169,No,White,10/10/1968,08/01/2011,,N/A-StillEmployed,Active,Employee Referral,2/27/2019
+"Villanueva, Noah",10253,M ,Single,US Citizen,ME,4063,No,Asian,07/11/1989,03/05/2012,,N/A-StillEmployed,Active,Website,1/18/2019
+"Voldemort, Lord",10118,M ,Married,US Citizen,MA,1960,No,Black or African American,08/07/1986,2/16/2015,2/22/2017,"no-call, no-show",Terminated for Cause,Employee Referral,2/15/2017
+"Volk, Colleen",10022,F,Married,US Citizen,MA,2747,No,White,06/03/1986,9/26/2011,02/08/2016,gross misconduct,Terminated for Cause,Google Search,02/01/2015
+"Von Massenbach, Anna",10183,F,Single,US Citizen,MA,2124,No,White,04/06/1985,07/05/2015,,N/A-StillEmployed,Active,LinkedIn,1/29/2019
+"Walker, Roger",10190,M ,Single,US Citizen,MA,2459,No,Black or African American,02/10/1976,8/18/2014,,N/A-StillEmployed,Active,Employee Referral,02/12/2019
+"Wallace, Courtney  E",10274,F,Married,US Citizen,MA,2478,No,Black or African American,11/14/55,9/26/2011,01/02/2012,Another position,Voluntarily Terminated,Diversity Job Fair,01/02/2012
+"Wallace, Theresa",10293,F,Single,US Citizen,MA,1887,No,White,08/02/1980,8/13/2012,09/01/2015,career change,Voluntarily Terminated,CareerBuilder,09/05/2014
+"Wang, Charlie",10172,M ,Single,US Citizen,MA,1887,No,Asian,07/08/1981,2/15/2017,,N/A-StillEmployed,Active,Indeed,01/04/2019
+"Warfield, Sarah",10127,F,Widowed,US Citizen,MA,2453,No,Asian,05/02/1978,3/30/2015,,N/A-StillEmployed,Active,Employee Referral,02/05/2019
+"Whittier, Scott",10072,M ,Single,US Citizen,MA,2030,Yes,White,05/24/87,01/10/2011,5/15/2014,hours,Voluntarily Terminated,LinkedIn,5/15/2014
+"Wilber, Barry",10048,M ,Married,Eligible NonCitizen,MA,2324,No,White,09/09/1965,5/16/2011,09/07/2015,unhappy,Voluntarily Terminated,Website,2/15/2015
+"Wilkes, Annie",10204,F,Divorced,US Citizen,MA,1876,No,White,07/30/83,01/10/2011,5/14/2012,Another position,Voluntarily Terminated,Google Search,02/06/2011
+"Williams, Jacquelyn  ",10264,F,Single,US Citizen,MA,2109,Yes,Black or African American,10/02/1969,01/09/2012,6/27/2015,relocation out of area,Voluntarily Terminated,Diversity Job Fair,06/02/2014
+"Winthrop, Jordan  ",10033,M ,Single,US Citizen,MA,2045,No,White,11/07/1958,01/07/2013,2/21/2016,retiring,Voluntarily Terminated,LinkedIn,1/19/2016
+"Wolk, Hang  T",10174,F,Single,US Citizen,MA,2302,No,White,04/20/85,9/29/2014,,N/A-StillEmployed,Active,LinkedIn,2/21/2019
+"Woodson, Jason",10135,M ,Single,US Citizen,MA,1810,No,White,05/11/1985,07/07/2014,,N/A-StillEmployed,Active,LinkedIn,2/28/2019
+"Ybarra, Catherine ",10301,F,Single,US Citizen,MA,2458,No,Asian,05/04/1982,09/02/2008,9/29/2015,Another position,Voluntarily Terminated,Google Search,09/02/2015
+"Zamora, Jennifer",10010,F,Single,US Citizen,MA,2067,No,White,08/30/79,04/10/2010,,N/A-StillEmployed,Active,Employee Referral,2/21/2019
+"Zhou, Julia",10043,F,Single,US Citizen,MA,2148,No,White,02/24/79,3/30/2015,,N/A-StillEmployed,Active,Employee Referral,02/01/2019
+"Zima, Colleen",10271,F,Widowed,US Citizen,MA,1730,No,Asian,08/17/78,9/29/2014,,N/A-StillEmployed,Active,LinkedIn,1/30/2019
